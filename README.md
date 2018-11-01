@@ -2,7 +2,7 @@
 
 *Hackerrank is a practice coding website*
 
-This is [website](www.hackerrank.com)
+This is [website](http://www.hackerrank.com)
 
 
 
