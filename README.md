@@ -1,5 +1,12 @@
 # Hackerrank 30 Days of Coding
 
+*Hackerrank is a practice coding website*
+
+This is [website](www.hackerrank.com)
+
+
+
+
 Day00:Hello, World
 Day01:Data Types
 Day02:Operators
