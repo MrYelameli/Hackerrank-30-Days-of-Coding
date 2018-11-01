@@ -10,5 +10,7 @@ This is [website](http://www.hackerrank.com)
 3. Day03:Intro to Conditional Statement
 4. Day04:Classes vs. Instance
 5. Day05:Loops
+6. Day06:Let's review
+7. Day07:Arrays
 
  
