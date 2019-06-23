@@ -2,7 +2,9 @@
 
 *Hackerrank is a practice coding website*
 
-This is [website](http://www.hackerrank.com)
+This is [website](http://www.hackerrank.com) 
+
+The problem statement of each day programming exercise is given in the above address.
 
 0. Day00:Hello, World
 1. Day01:Data Types
